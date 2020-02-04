@@ -10,6 +10,7 @@ namespace bnfjrf
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
